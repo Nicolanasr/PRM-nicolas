@@ -1,7 +1,7 @@
 # Project Management Website for teams
 
 Prm website built with django 3.1.7 and Python 3.9.1  
-<a href="https://nicolas-prm-2.herokuapp.com/">Live Demo</a>  
+<a href="https://nicolas-prm-2.herokuapp.com/" target="_blank">Live Demo</a>  
 [![Account Password change](https://img.shields.io/website?url=https%3A%2F%2Fnicolas-e-commerce.herokuapp.com%2Fstore%2F )](https://nicolas-prm-2.herokuapp.com/)   
 <hr>
 
@@ -115,7 +115,7 @@ The TL will be able to access the tasks that are awaiting review from the top ri
 </ul>
 
 <span id="credentials"></span>
-## Login credentials for you to user to access and test the <a href="https://nicolas-prm-2.herokuapp.com/login">website</a>:
+## Login credentials for you to user to access and test the <a href="https://nicolas-prm-2.herokuapp.com/login" target="_blank">website</a>:
 ###### (All the changes made to the databases will automatically reset within 24 hrs so don't worry about messing things up)  
 <br>
 <table>
